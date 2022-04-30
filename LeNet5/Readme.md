@@ -1,6 +1,6 @@
 # LeNet5-MNIST-PyTorch
 
-#### The model file includes the original and a tuned version of the LeNet5. Feel free to comment/uncomment to choose the model type in your training
+#### The model file includes the original and a tuned version of the LeNet5. The dataset is MNIST. Feel free to comment/uncomment to choose the model type in your training
 ![image](https://user-images.githubusercontent.com/25716030/162345646-b13c9af0-bdb5-4ce7-9a62-c0834cba9e5f.png)
 ## Model architecture
 ```
